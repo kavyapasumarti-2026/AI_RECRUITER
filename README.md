@@ -194,5 +194,8 @@ This project was built as part of the **Data & AI Challenge** with the goal of d
 The focus was on building a practical, explainable, and recruiter-friendly prototype that can be extended into a production-ready hiring assistant.
 
 ---
+## Conclusion
+
+This project demonstrates how semantic AI can improve candidate screening by understanding context instead of relying solely on keyword matching. By combining semantic embeddings with hybrid scoring and explainable recommendations, the system provides recruiters with a practical and transparent way to identify the most relevant candidates.
 
 ## Thank you!
